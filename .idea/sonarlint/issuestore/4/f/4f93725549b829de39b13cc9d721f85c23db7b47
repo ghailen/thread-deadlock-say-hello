@@ -1,0 +1,31 @@
+
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ¨ù
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¿ßºşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›î§Äøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µØ áúÿÿÿÿ8Á‡ À/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®Ù‚à8á† À/
+W
+java:S1161!":Add the "@Override" annotation above this method signature(“–ış8‹® À/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(÷ìçŞúÿÿÿÿ8‘‹ À/
+{
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹® À/
+`
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8® À/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¸‰–àùÿÿÿÿ8‘‹ À/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ü øá8‘‹ À/
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(é›¸øÿÿÿÿ8‘‹ À/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(²­8‘‹ À/
+g
+java:S1104"QMake lock1 a static final constant or non-public and provide accessors if needed.(³ÑÇÑ
+g
+java:S1104"QMake lock2 a static final constant or non-public and provide accessors if needed.(Úø
+A
+java:S1444"+Make this "public static lock1" field final(³ÑÇÑ
+A
+java:S1444"+Make this "public static lock2" field final(Úø
